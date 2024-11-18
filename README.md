@@ -24,7 +24,7 @@ pip install flask-bcrypt
 
 ## Inicial proyecto
 ```bash
-pip manage.py
+python manage.py
 ```
 
 ## Por defecto el usuario de admin ya esta predeterminado en la base de datos
